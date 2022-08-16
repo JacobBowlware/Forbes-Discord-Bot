@@ -60,6 +60,8 @@ Ex:
     !f 0,10 - Returns Top 10
     !f 10 - Returns Top 10
     !f 390,400 - Returns Last 10
+    (Minimum x value of 0, Max y value of 400)
+    (Each range must be limited to 30, such that y - x <= 30)
 !f random - Random Forbes400 Member
 !f limits
 !f - Help
