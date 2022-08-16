@@ -1,7 +1,7 @@
 import discord, requests, random
 
 # Discord bot 'api':
-TOKEN = 'MTAwODc5NjEzMzM5MDI4Njg4OA.G-5XX0.dehsDbIUTDm4PYd-wL8gL2vQMUXWRsbyq5le8E'
+TOKEN = 'classified'
 client = discord.Client()
 
 # Add commas to the Networth Value:
